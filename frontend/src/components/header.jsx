@@ -4,16 +4,16 @@ import './header.scss'
 class Header extends React.Component{
 
     render(){
-        return(
-            <>
-            <div className='header'>
-            <div className='headerTitle'>
-            <div>{'The Maine Center for Laser & Digital Restorative Dentistry'}</div>
+        return (
+          <>
+            <div className="header">
+              <div className="headerTitle">
+                <div>{"The Harbour House"}</div>
+                <div>{"Bed and Breakfast Hotel"}</div>
+              </div>
             </div>
-            </div>
-            </>
-
-        )
+          </>
+        );
     }
 }
 
