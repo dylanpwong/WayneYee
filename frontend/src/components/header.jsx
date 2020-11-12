@@ -8,8 +8,8 @@ class Header extends React.Component{
           <>
             <div className="header">
               <div className="headerTitle">
-                <div>{"The Harbour House"}</div>
-                <div>{"Bed and Breakfast Hotel"}</div>
+                <div className="title">{"The Harbour House"}</div>
+                <div className="title2">{"Bed and Breakfast Hotel"}</div>
               </div>
             </div>
           </>

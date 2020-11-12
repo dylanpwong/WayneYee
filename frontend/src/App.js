@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import Header from './components/header';
+import Splash from './components/main/splash';
 
 function App() {
   return (
@@ -9,8 +10,8 @@ function App() {
         <Header/>
       </div>
       <div className='mainContentWrapper'>
-
-      </div>
+        <Splash/>
+      </div>  
       <div className='footer'>
 
       </div>
